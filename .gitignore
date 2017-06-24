@@ -27,6 +27,19 @@
 *.out
 *.app
 
+# ===========================
+# Unreal Engine Derived Files
+# ===========================
+.vs
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+*VC.db*
+*VC.opendb*
+Content/StarterContent
+
 # =========================
 # Operating System Files
 # =========================
